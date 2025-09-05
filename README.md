@@ -37,7 +37,7 @@ Pipeline of the proposed model :
 1. Shobhit Tyagi∗, 2. Naveen Chauhan∗, 3. Divakar Yadav†, 4. Prashant Upadhyay‡, 5. Piyush Rawat §
 
 ∗Department of Computer Science and Engineering and Information Technology, Jaypee Institute of Information Technology, Noida, U.P., India 
-Email: shobhit.tyagi@jiit.ac.in , naveen.chauhan}@jiit.ac.in
+Email: shobhit.tyagi@jiit.ac.in , naveen.chauhan@jiit.ac.in
 
 †School of Computer and Information Sciences, IGNOU, New Delhi, India Email: divakaryadav@ignou.ac.in
 
