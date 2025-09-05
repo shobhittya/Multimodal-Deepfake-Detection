@@ -38,7 +38,10 @@ Pipeline of the proposed model :
 
 ∗Department of Computer Science and Engineering and Information Technology, Jaypee Institute of Information Technology, Noida, U.P., India 
 Email: shobhit.tyagi@jiit.ac.in , naveen.chauhan}@jiit.ac.in
+
 †School of Computer and Information Sciences, IGNOU, New Delhi, India Email: divakaryadav@ignou.ac.in
+
 ‡Department of Computer Science and Engineering, School of Engineering and Technology, Sharda University, Greater Noida, India Email: prashanttheace@gmail.com
+
 §Department of Computer Science and Engineering, Delhi Technological University, Delhi, India Email: psh.rawat@gmail.com
 
