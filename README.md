@@ -28,6 +28,8 @@ Matplotlib/Seaborn (visualization)
 1) FakeAV Dataset : [https://www.kaggle.com/xhlulu/140k-real-and-fake-faces](https://github.com/DASH-Lab/FakeAVCeleb)
 2) CelebDF Dataset : [https://github.com/namtpham/casia1groundtruth](https://github.com/yuezunli/celeb-deepfakeforensics/blob/master/Celeb-DF-v)
 
+To download .npy files:
+x_audio_all.npy and y_all.npy : https://drive.google.com/drive/folders/1uQ4eo9fij221MvC-25BFKc2Gv3876EZU?usp=drive_link  
 
 Pipeline of the proposed model : 
 
