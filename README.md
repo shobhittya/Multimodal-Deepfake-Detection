@@ -1,2 +1,4 @@
-# Multimodal-Deepfake-Detection
-Multimodal Deepfake Detection Using Frame-Level Visual Features and Mel Spectrograms
+## Multimodal Deepfake Detection Using Frame-Level Visual Features and Mel Spectrograms
+
+#Abstract
+Deepfake content has become increasingly convincing and accessible with the rapid progress of generative models. As manipulation techniques advance, detectors that rely solely on a single modality often struggle to maintain robustness. In this paper, we propose a dual-stream deepfake detection framework that jointly leverages visual and auditory information. The framework extracts frame-level representations from video streams and complementary audio features via Mel-spectrograms, which are independently processed through parallel convolutional neural networks (CNNs). The learned feature embeddings are subsequently fused to enable robust classification of real versus manipulated media. Experimental evaluation on two widely used multimodal deepfake datasets demonstrates the effectiveness of our approach: the proposed method achieves 96% accuracy on FakeAVCeleb and 97% accuracy on Celeb-DF, substantially surpassing single-modality baselines. These results highlight the advantages of multimodal fusion for enhancing detection reliability and generalization, and provide a foundation for future research on resilient deepfake detection systems.
