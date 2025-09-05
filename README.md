@@ -28,11 +28,17 @@ Matplotlib/Seaborn (visualization)
 1) FakeAV Dataset : [https://www.kaggle.com/xhlulu/140k-real-and-fake-faces](https://github.com/DASH-Lab/FakeAVCeleb)
 2) CelebDF Dataset : [https://github.com/namtpham/casia1groundtruth](https://github.com/yuezunli/celeb-deepfakeforensics/blob/master/Celeb-DF-v)
 
-To download .npy files:
-x_audio_all.npy and y_all.npy : https://drive.google.com/drive/folders/1uQ4eo9fij221MvC-25BFKc2Gv3876EZU?usp=drive_link  
-
 Pipeline of the proposed model : 
 
 <img width="1536" height="1024" alt="pipeline" src="https://github.com/user-attachments/assets/fbf80b12-c7a0-4b8f-ace0-e32711b4d588" />
 
+
+# Authors
+1. Shobhit Tyagi∗, 2. Naveen Chauhan∗, 3. Divakar Yadav†, 4. Prashant Upadhyay‡, 5. Piyush Rawat §
+
+∗Department of Computer Science and Engineering and Information Technology, Jaypee Institute of Information Technology, Noida, U.P., India 
+Email: {shobhit.tyagi, naveen.chauhan}@jiit.ac.in}
+†School of Computer and Information Sciences, IGNOU, New Delhi, India Email: divakaryadav@ignou.ac.in
+‡Department of Computer Science and Engineering, School of Engineering and Technology, Sharda University, Greater Noida, India Email: prashanttheace@gmail.com
+§Department of Computer Science and Engineering, Delhi Technological University, Delhi, India Email: psh.rawat@gmail.com
 
