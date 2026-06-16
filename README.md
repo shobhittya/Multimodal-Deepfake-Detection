@@ -1,13 +1,13 @@
-# Multimodal Deepfake Detection Using Frame-Level Visual Features and Mel Spectrograms
+## Multimodal Deepfake Detection Using Frame-Level Visual Features and Mel Spectrograms
 
-Abstract
-
-Deepfake content has become increasingly convincing and accessible with the rapid progress of generative models. As manipulation techniques evolve, detectors that rely on a single modality often fail to maintain robustness. In this paper, we introduce a dual-stream deepfake detection framework that integrates both visual and auditory information. Frame-level representations are extracted from video sequences, while complementary audio features are derived from Mel-spectrograms; each modality is processed through dedicated convolutional neural networks (DCNNs). The resulting feature embeddings are fused to enable reliable classification of authentic and manipulated media. Experimental results demonstrate that our approach achieves 96% accuracy on FakeAVCeleb and 97% accuracy on Celeb-DF, significantly outperforming single-modality baselines. These findings underscore the effectiveness of multimodal fusion for improving detection reliability and cross-dataset generalization, establishing a strong foundation for future research on resilient deepfake detection systems.
+#Abstract
+The rapid advancement of generative artificial intelligence has enabled the creation of highly realistic deepfake content, raising serious concerns regarding digital media authenticity, information integrity, and public trust. Existing deepfake detection approaches predominantly rely on unimodal analysis, making them vulnerable to sophisticated manipulations that preserve either visual or auditory realism while introducing subtle cross-modal inconsistencies. To address this limitation, we propose a lightweight dual-stream multimodal framework that jointly leverages visual and auditory cues for robust deepfake detection. The proposed architecture employs parallel feature-extraction pipelines, using MobileNetV2 to derive visual representations from video frames and a Mel-spectrogram-based encoder for audio signals. These modality-specific embeddings are subsequently fused through a shared classification network to capture cross-modal artifacts indicative of synthetic media effectively. The proposed framework is evaluated on three publicly available benchmarks: FakeAVCeleb, CelebDF, and KoDF. Experimental results demonstrate strong performance, achieving accuracies of 96.9%, 97.0%, and 88.4%, respectively. Furthermore, ablation studies confirm that multimodal fusion consistently outperforms unimodal approaches, yielding improvements of 3.1% over video-only and 5.4% over audio-only models of FakeAVCeleb. These findings highlight the critical importance of integrating complementary audio-visual information for reliable deepfake detection and demonstrate the effectiveness of
+lightweight multimodal architectures for real-world deployment. 
 
  # Requirements
  
 1. Hardware
-GPU: NVIDIA RTX 2080 Ti or higher (≥11 GB VRAM recommended; experiments in this work were conducted on an RTX 3090 with 24 GB).
+GPU: NVIDIA RTX 2080 Ti or higher (≥11 GB VRAM recommended, experiments in this work were conducted on an RTX 3090 with 24 GB).
 CPU: Intel i7/i9 or AMD Ryzen 7/9 (≥8 cores).
 Memory (RAM): ≥16 GB (32 GB recommended for faster preprocessing).
 Storage: ≥200 GB free space (to store datasets, extracted frames, and spectrograms).
