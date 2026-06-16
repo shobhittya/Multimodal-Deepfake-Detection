@@ -29,8 +29,12 @@ Matplotlib/Seaborn (visualization)
 2) CelebDF Dataset : [https://github.com/namtpham/casia1groundtruth](https://github.com/yuezunli/celeb-deepfakeforensics/blob/master/Celeb-DF-v)
 
 Pipeline of the proposed model : 
+<img width="1536" height="1024" alt="Model_Pipeline" src="https://github.com/user-attachments/assets/89cba0cc-f900-4724-850d-8770e0a0f9fb" />
 
-<img width="1536" height="1024" alt="pipeline" src="https://github.com/user-attachments/assets/fbf80b12-c7a0-4b8f-ace0-e32711b4d588" />
+
+# Model Architecture
+<img width="1024" height="1536" alt="Model_arch" src="https://github.com/user-attachments/assets/4531fb6b-0faa-4395-908b-eb8da466a96a" />
+
 
 
 # Authors
