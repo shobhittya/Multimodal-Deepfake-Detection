@@ -35,6 +35,13 @@ Pipeline of the proposed model :
 # Model Architecture
 <img width="1024" height="1536" alt="Model_arch" src="https://github.com/user-attachments/assets/4531fb6b-0faa-4395-908b-eb8da466a96a" />
 
+# Proposed Model Performance on Benchmark Datasets
+
+| Dataset      | Accuracy (%) | F1-score | Precision | Recall |
+|--------------|-------------|----------|-----------|--------|
+| FakeAVCeleb  | 96.9        | 95.7     | 95.2      | 96.1   |
+| CelebDF      | 97.0        | 96.8     | 96.0      | 97.2   |
+| KoDF         | 88.4        | 86.3     | 86.5      | 87.2   |
 
 
 # Authors
