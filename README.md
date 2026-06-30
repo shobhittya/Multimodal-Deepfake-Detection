@@ -51,7 +51,7 @@ Pipeline of the proposed model :
 
 †School of Computer and Information Sciences, IGNOU, New Delhi, India Email: divakaryadav@ignou.ac.in
 
-‡Department of CSE, SSET, Sharda University, Greater Noida, India, Email: prashanttheace@gmail.com
+‡School of CSE and Technology, Bennett University, Greater Noida, India, Email: prashant.upadhyay@bennett.edu.in
 
 §Department of CSE, Delhi Technological University, Delhi, India, Email: psh.rawat@gmail.com
 
